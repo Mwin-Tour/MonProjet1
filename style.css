@@ -1,0 +1,12 @@
+/* Style pour le corps de la page */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f9f9f9;
+    text-align: center;
+    padding: 40px;
+}
+
+/* Titre principal en rouge */
+h1 {
+    color: #ff0000;
+}
